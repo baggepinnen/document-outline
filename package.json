@@ -33,5 +33,10 @@
   "devDependencies": {
     "eslint": "^3.7.0",
     "eslint-config-google": "^0.6.0"
+  },
+  "apmInstallSource": {
+    "type": "git",
+    "source": "https://github.com/baggepinnen/document-outline/",
+    "sha": "a1eb2e31922de4ff42d628058bf6ab06ded71855"
   }
 }
